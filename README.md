@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/kiruadev0/LudoLand/blob/main/images/logofull.png?raw=true' width='200"'>
 
-![Website](https://img.shields.io/badge/website-on-brightgreen)
+![Website](https://img.shields.io/badge/website-off-red)
 
 Welcome to **LudoLand**, the online platform dedicated to board games!  
 Our goal: to provide a friendly space where players of all ages can meet, discover, and play board games online.
