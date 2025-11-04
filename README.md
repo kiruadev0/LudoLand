@@ -8,7 +8,7 @@ Our goal: to provide a friendly space where players of all ages can meet, discov
 LudoLand is a collaborative project between:
 
 - **Xaryn** – web development, hosting, and infrastructure expert.  
-- **[Your Name / Username]** – a passionate developer who loves creating and building projects.
+- **[Your Name / Username]** – cybersecurity & development student.
 
 We combine our skills to create a fast, enjoyable, and secure platform for all board game enthusiasts.
 
@@ -27,5 +27,7 @@ We combine our skills to create a fast, enjoyable, and secure platform for all b
 - Database: MySQL / MongoDB  
 - Hosting: managed by Xaryn.xyz  
 
-## 📂 Project Structure
+## 💻 Contact
+
+Go check out the [Xaryn](https://xaryn.xyz) website to support them. Thanks to them for collaborating with me on this project. You can also contact me by [email](https://xaryn.xyz) or on my [GitHub](https:/). 
 
