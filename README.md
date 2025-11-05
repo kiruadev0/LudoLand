@@ -26,5 +26,6 @@ We combine our skills to create a fast, enjoyable, and secure platform for all b
 
 ## 💻 Contact
 
-Go check out the [Xaryn](https://xaryn.xyz) website to support them. Thanks to them for collaborating with me on this project. You can also contact me by [email](mailto:contactbachiir@gmail.com) or on my [GitHub](https://github.com/kiruadev0). 
+Go check out the [Xaryn](https://xaryn.xyz) website to support them. Thanks to them for collaborating with me on this project.
+You can also contact me by [email](mailto:contactbachiir@gmail.com) or on my [GitHub](https://github.com/kiruadev0). 
 
