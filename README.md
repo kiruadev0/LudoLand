@@ -9,7 +9,7 @@ Our goal: to provide a friendly space where players of all ages can meet, discov
 
 ## 🚀 About the Project
 
-[PixelsGames](https://pixelsgames.xyz) is a collaborative project between:
+[**PixelsGames**](https://pixelsgames.xyz) is a collaborative project between:
 
 - **Xaryn** – web development, hosting, and infrastructure expert.  
 - **Kirua** – cybersecurity & development student.
